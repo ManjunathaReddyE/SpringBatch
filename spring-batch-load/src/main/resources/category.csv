@@ -1,0 +1,6 @@
+itemId,itemName,itemType,price
+1,idle,bfast,25
+2,vada,bfast,30
+3,southmeal,lunch,50
+4,northmeal,lunch,40
+5,Luna,snax,80
